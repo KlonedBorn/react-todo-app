@@ -23,13 +23,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/simple-todo-app.git
+   git clone https://github.com/KlonedBorn/react-todo-app
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd simple-todo-app
+   cd react-todo-app
    ```
 
 3. **Install the dependencies:**
